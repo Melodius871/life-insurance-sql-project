@@ -4,7 +4,7 @@ Actuarial-style SQL analysis of life &amp; annuity portfolio performance (premiu
 
 #Life Insurance Portfolio Analysis (SQL)
 
-## 📌 Overview
+##  Overview
 
 This project performs an actuarial-style analysis of a simplified life insurance portfolio using SQL. It evaluates premiums, claims experience, and profitability metrics commonly used in life & annuity valuation and financial reporting.
 
@@ -60,7 +60,7 @@ This project answers the following business questions:
 
 ---
 
-## 📊 Key Metric
+## Key Metric
 
 **Loss Ratio = Claims / Premiums**
 
@@ -71,14 +71,14 @@ This is a core insurance performance metric used to evaluate underwriting profit
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * SQL
 * SQLite (for query execution)
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * The portfolio is evaluated at both aggregate and policy level
 * Loss ratios highlight underwriting performance differences across policies
@@ -87,7 +87,7 @@ This is a core insurance performance metric used to evaluate underwriting profit
 
 ---
 
-## 💼 Skills Demonstrated
+## Skills Demonstrated
 
 * SQL data aggregation and joins
 * Financial and insurance data analysis
@@ -97,7 +97,7 @@ This is a core insurance performance metric used to evaluate underwriting profit
 
 ---
 
-## 🚀 Project Purpose
+## Project Purpose
 
 This project was built to strengthen actuarial and financial analytics skills by simulating real-world life insurance portfolio analysis using SQL.
 
@@ -105,7 +105,7 @@ It is part of a broader effort to transition into actuarial/insurance analytics 
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add cohort analysis (issue year performance)
 * Include lapse rate modeling by duration
