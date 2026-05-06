@@ -1,4 +1,4 @@
-# life-insurance-sql-project
+I# life-insurance-sql-project
 Actuarial-style SQL analysis of life &amp; annuity portfolio performance (premiums, claims, loss ratios, policy behavior)
 
 
@@ -113,4 +113,27 @@ It is part of a broader effort to transition into actuarial/insurance analytics 
 * Build Power BI dashboard for visualization
 
 ---
+
+---
+
+## Results
+
+* The portfolio consists of **6 total policies**, with **4 active** and **2 lapsed**, indicating a mostly stable in-force block with some attrition.
+
+* Total premiums collected across all policies are **10,400**, while total claims paid are **90,000**.
+
+* Claims are highly concentrated, with only a small number of policies generating all observed claim activity.
+
+* Loss ratios vary significantly at the policy level:
+
+  * Several policies show **no claims (loss ratio = 0)**, indicating profitable experience
+  * A small number of policies show **very high loss ratios due to large claims**
+
+* Overall, the portfolio demonstrates **high variability in experience**, which is typical in life insurance due to low-frequency, high-severity claim events.
+
+* Policy-level analysis provides more insight than portfolio-level totals, highlighting the importance of granular actuarial review.
+
+---
+
+
 
